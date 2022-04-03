@@ -1,0 +1,164 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2022-04-03T14:59:33.638+02:00
+  initializedAtString: 2022-04-03T14:59:33.638+02:00
+  entries:
+  - path: Assets/Assets.meta
+    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Assets/Assets.meta
+    projectPath: Assets/Assets.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Assets/Mobile - Flappy Bird - Version 12 Sprites.png
+    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Assets/Assets/Mobile
+      - Flappy Bird - Version 12 Sprites.png
+    projectPath: Assets/Assets/Mobile - Flappy Bird - Version 12 Sprites.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Assets/Mobile - Flappy Bird - Version 12 Sprites.png.meta
+    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Assets/Assets/Mobile
+      - Flappy Bird - Version 12 Sprites.png.meta
+    projectPath: Assets/Assets/Mobile - Flappy Bird - Version 12 Sprites.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/libsfw.bundle
+    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Assets/Plugins/GitHub/Editor/libsfw.bundle
+    projectPath: Assets/Plugins/GitHub/Editor/libsfw.bundle
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets/Plugins/GitHub/Editor/libsfw.bundle.meta
+    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Assets/Plugins/GitHub/Editor/libsfw.bundle.meta
+    projectPath: Assets/Plugins/GitHub/Editor/libsfw.bundle.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/ArtifactDB
+    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Library/ArtifactDB
+    projectPath: Library/ArtifactDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/Artifacts/07/07077fa78a2c4ccd1f420090a0dc81ca
+    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Library/Artifacts/07/07077fa78a2c4ccd1f420090a0dc81ca
+    projectPath: Library/Artifacts/07/07077fa78a2c4ccd1f420090a0dc81ca
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/25/25dc812e8efe1bd173f2c0fab76f3a4b
+    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Library/Artifacts/25/25dc812e8efe1bd173f2c0fab76f3a4b
+    projectPath: Library/Artifacts/25/25dc812e8efe1bd173f2c0fab76f3a4b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/49/49b8cce9d2d0c8a8ad961f2dbf40c040
+    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Library/Artifacts/49/49b8cce9d2d0c8a8ad961f2dbf40c040
+    projectPath: Library/Artifacts/49/49b8cce9d2d0c8a8ad961f2dbf40c040
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/95/953f1dcfaee7ea83c29a8c52f8ee9ed2
+    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Library/Artifacts/95/953f1dcfaee7ea83c29a8c52f8ee9ed2
+    projectPath: Library/Artifacts/95/953f1dcfaee7ea83c29a8c52f8ee9ed2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/a8/a8e8b3fa04513817228b6f4284df1d8d
+    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Library/Artifacts/a8/a8e8b3fa04513817228b6f4284df1d8d
+    projectPath: Library/Artifacts/a8/a8e8b3fa04513817228b6f4284df1d8d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/c5/c57ffc885b368d8c1ec457d4cfc44973
+    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Library/Artifacts/c5/c57ffc885b368d8c1ec457d4cfc44973
+    projectPath: Library/Artifacts/c5/c57ffc885b368d8c1ec457d4cfc44973
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/e0/e0f96c2fb0fc1c93c607bb44362b9401
+    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Library/Artifacts/e0/e0f96c2fb0fc1c93c607bb44362b9401
+    projectPath: Library/Artifacts/e0/e0f96c2fb0fc1c93c607bb44362b9401
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/e9/e92dc880a80c23035f233363fbfff0a8
+    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Library/Artifacts/e9/e92dc880a80c23035f233363fbfff0a8
+    projectPath: Library/Artifacts/e9/e92dc880a80c23035f233363fbfff0a8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/ef/eff6e8280dd8c1403c918c75912e6396
+    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Library/Artifacts/ef/eff6e8280dd8c1403c918c75912e6396
+    projectPath: Library/Artifacts/ef/eff6e8280dd8c1403c918c75912e6396
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/f1/f1aeaf3df368eb6f1acb8c03093dc627
+    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Library/Artifacts/f1/f1aeaf3df368eb6f1acb8c03093dc627
+    projectPath: Library/Artifacts/f1/f1aeaf3df368eb6f1acb8c03093dc627
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/gfu/cache/gitlocks.yaml
+    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Library/gfu/cache/gitlocks.yaml
+    projectPath: Library/gfu/cache/gitlocks.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/gfu/cache/gitstatusentries.yaml
+    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Library/gfu/cache/gitstatusentries.yaml
+    projectPath: Library/gfu/cache/gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/gfu/cache/repoinfo.yaml
+    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Library/gfu/cache/repoinfo.yaml
+    projectPath: Library/gfu/cache/repoinfo.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/SceneVisibilityState.asset
+    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Library/SceneVisibilityState.asset
+    projectPath: Library/SceneVisibilityState.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/SourceAssetDB
+    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Library/SourceAssetDB
+    projectPath: Library/SourceAssetDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Logs/AssetImportWorker0.log
+    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Logs/AssetImportWorker0.log
+    projectPath: Logs/AssetImportWorker0.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Logs/shadercompiler-AssetImportWorker0.log
+    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Logs/shadercompiler-AssetImportWorker0.log
+    projectPath: Logs/shadercompiler-AssetImportWorker0.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/__Backupscenes/0.backup
+    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Temp/__Backupscenes/0.backup
+    projectPath: Temp/__Backupscenes/0.backup
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
