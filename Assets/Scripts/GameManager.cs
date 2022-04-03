@@ -6,10 +6,18 @@ using UnityEngine.SceneManagement;
 public class GameManager : MonoBehaviour
 {
     public GameObject gameOverCanvas;
+    public GameObject titleCanvas;
+
+    public int mouse = 0;
 
     private void Start()
     {
-        Time.timeScale = 1;
+        if(mouse == 0)
+        {
+            Time.timeScale = 0;
+            titleCanvas.SetActive(true);
+        }
+        
     }
 
 

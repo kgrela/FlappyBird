@@ -18,10 +18,23 @@ public class Fly : MonoBehaviour
     void Update()
     {
 
+        
+
         if(Input.GetMouseButtonDown(0))
         {
+            if (gm.mouse == 0) {
+
+                gm.titleCanvas.SetActive(false);
+                Time.timeScale = 1;
+
+            }
+
+
+            gm.mouse++;
             rb.velocity = Vector2.up * velocity;
         }
+
+
         
     }
 

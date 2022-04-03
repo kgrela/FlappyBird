@@ -13,76 +13,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2022-04-03T17:33:52.520+02:00
+  lastUpdatedAtString: 2022-04-03T18:37:00.059+02:00
   initializedAtString: 2022-04-03T14:59:33.638+02:00
   entries:
-  - path: .vs/flappybird/xs/project-cache/Assembly-CSharp-Debug.json
-    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/.vs/flappybird/xs/project-cache/Assembly-CSharp-Debug.json
-    projectPath: .vs/flappybird/xs/project-cache/Assembly-CSharp-Debug.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: .vs/flappybird/xs/UserPrefs.xml
-    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/.vs/flappybird/xs/UserPrefs.xml
-    projectPath: .vs/flappybird/xs/UserPrefs.xml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assembly-CSharp.csproj
-    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Assembly-CSharp.csproj
-    projectPath: Assembly-CSharp.csproj
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets/Assets/Mobile - Flappy Bird - Version 12 Sprites.png.meta
-    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Assets/Assets/Mobile
-      - Flappy Bird - Version 12 Sprites.png.meta
-    projectPath: Assets/Assets/Mobile - Flappy Bird - Version 12 Sprites.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets/Fonts.meta
-    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Assets/Fonts.meta
-    projectPath: Assets/Fonts.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets/Fonts/04B_19__.TTF
-    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Assets/Fonts/04B_19__.TTF
-    projectPath: Assets/Fonts/04B_19__.TTF
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets/Fonts/04B_19__.TTF.meta
-    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Assets/Fonts/04B_19__.TTF.meta
-    projectPath: Assets/Fonts/04B_19__.TTF.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets/Prefabs/Pipe.prefab
-    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Assets/Prefabs/Pipe.prefab
-    projectPath: Assets/Prefabs/Pipe.prefab
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Assets/Scenes/SampleScene.unity
     fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Assets/Scenes/SampleScene.unity
     projectPath: Assets/Scenes/SampleScene.unity
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets/Scripts/AddScore.cs
-    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Assets/Scripts/AddScore.cs
-    projectPath: Assets/Scripts/AddScore.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets/Scripts/AddScore.cs.meta
-    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Assets/Scripts/AddScore.cs.meta
-    projectPath: Assets/Scripts/AddScore.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Assets/Scripts/Fly.cs
     fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Assets/Scripts/Fly.cs
     projectPath: Assets/Scripts/Fly.cs
@@ -93,205 +32,59 @@ MonoBehaviour:
     fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Assets/Scripts/GameManager.cs
     projectPath: Assets/Scripts/GameManager.cs
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets/Scripts/GameManager.cs.meta
-    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Assets/Scripts/GameManager.cs.meta
-    projectPath: Assets/Scripts/GameManager.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Assets/Scripts/ScoreManager.cs
     fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Assets/Scripts/ScoreManager.cs
     projectPath: Assets/Scripts/ScoreManager.cs
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets/Scripts/ScoreManager.cs.meta
-    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Assets/Scripts/ScoreManager.cs.meta
-    projectPath: Assets/Scripts/ScoreManager.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library/ArtifactDB
     fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Library/ArtifactDB
     projectPath: Library/ArtifactDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library/Artifacts/07/070225b523e82a583aa70d6dc20f8eb3
-    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Library/Artifacts/07/070225b523e82a583aa70d6dc20f8eb3
-    projectPath: Library/Artifacts/07/070225b523e82a583aa70d6dc20f8eb3
+  - path: Library/Artifacts/00/0084c29e2caa3300671d7eb3e0a14f86
+    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Library/Artifacts/00/0084c29e2caa3300671d7eb3e0a14f86
+    projectPath: Library/Artifacts/00/0084c29e2caa3300671d7eb3e0a14f86
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/0c/0c63b5c80c9f29895728b63b909ac995
-    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Library/Artifacts/0c/0c63b5c80c9f29895728b63b909ac995
-    projectPath: Library/Artifacts/0c/0c63b5c80c9f29895728b63b909ac995
+  - path: Library/Artifacts/14/14b4485cd8dfab5d508bb1b3a11efc66
+    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Library/Artifacts/14/14b4485cd8dfab5d508bb1b3a11efc66
+    projectPath: Library/Artifacts/14/14b4485cd8dfab5d508bb1b3a11efc66
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/1d/1d5bcfa50dddb5a887d0336fa255f79b
-    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Library/Artifacts/1d/1d5bcfa50dddb5a887d0336fa255f79b
-    projectPath: Library/Artifacts/1d/1d5bcfa50dddb5a887d0336fa255f79b
+  - path: Library/Artifacts/27/27e04048213f1d16255ca68bdd57764e
+    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Library/Artifacts/27/27e04048213f1d16255ca68bdd57764e
+    projectPath: Library/Artifacts/27/27e04048213f1d16255ca68bdd57764e
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/36/36ea689b46370cc09a354cc224976e74
-    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Library/Artifacts/36/36ea689b46370cc09a354cc224976e74
-    projectPath: Library/Artifacts/36/36ea689b46370cc09a354cc224976e74
+  - path: Library/Artifacts/3d/3d8e9278f64e1281db6a18707b899501
+    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Library/Artifacts/3d/3d8e9278f64e1281db6a18707b899501
+    projectPath: Library/Artifacts/3d/3d8e9278f64e1281db6a18707b899501
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/3e/3ea3b770a6e71fd6584a0be55700c53d
-    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Library/Artifacts/3e/3ea3b770a6e71fd6584a0be55700c53d
-    projectPath: Library/Artifacts/3e/3ea3b770a6e71fd6584a0be55700c53d
+  - path: Library/Artifacts/9f/9f06d2de6616d947a57089be854269ac
+    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Library/Artifacts/9f/9f06d2de6616d947a57089be854269ac
+    projectPath: Library/Artifacts/9f/9f06d2de6616d947a57089be854269ac
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/40/4043262ad790cae9b6902cd598fc3f13
-    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Library/Artifacts/40/4043262ad790cae9b6902cd598fc3f13
-    projectPath: Library/Artifacts/40/4043262ad790cae9b6902cd598fc3f13
+  - path: Library/Artifacts/d6/d68cc7189c697f20eeac62915b437478
+    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Library/Artifacts/d6/d68cc7189c697f20eeac62915b437478
+    projectPath: Library/Artifacts/d6/d68cc7189c697f20eeac62915b437478
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/44/44ded36d92479180b22734f1c1eb5081
-    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Library/Artifacts/44/44ded36d92479180b22734f1c1eb5081
-    projectPath: Library/Artifacts/44/44ded36d92479180b22734f1c1eb5081
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/58/58bfe754166c622cbdae42a5cc747030
-    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Library/Artifacts/58/58bfe754166c622cbdae42a5cc747030
-    projectPath: Library/Artifacts/58/58bfe754166c622cbdae42a5cc747030
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/70/70e979d86e9f3d9faf6eba3caef28b76
-    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Library/Artifacts/70/70e979d86e9f3d9faf6eba3caef28b76
-    projectPath: Library/Artifacts/70/70e979d86e9f3d9faf6eba3caef28b76
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/76/7642a6e6c997655fb4d1e40139ace9d5
-    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Library/Artifacts/76/7642a6e6c997655fb4d1e40139ace9d5
-    projectPath: Library/Artifacts/76/7642a6e6c997655fb4d1e40139ace9d5
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/76/7677534e6786aea13b916dbdc18e912d
-    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Library/Artifacts/76/7677534e6786aea13b916dbdc18e912d
-    projectPath: Library/Artifacts/76/7677534e6786aea13b916dbdc18e912d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/7a/7ad50e9c5b049d35bd8d264773166b6d
-    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Library/Artifacts/7a/7ad50e9c5b049d35bd8d264773166b6d
-    projectPath: Library/Artifacts/7a/7ad50e9c5b049d35bd8d264773166b6d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/7b/7b45c7382c93f063d5034919e2627114
-    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Library/Artifacts/7b/7b45c7382c93f063d5034919e2627114
-    projectPath: Library/Artifacts/7b/7b45c7382c93f063d5034919e2627114
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/7d/7dce1ff6d5238bbbab25eecf997fec70
-    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Library/Artifacts/7d/7dce1ff6d5238bbbab25eecf997fec70
-    projectPath: Library/Artifacts/7d/7dce1ff6d5238bbbab25eecf997fec70
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/99/992ca7bfcd79d6993d1a9f44ace31347
-    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Library/Artifacts/99/992ca7bfcd79d6993d1a9f44ace31347
-    projectPath: Library/Artifacts/99/992ca7bfcd79d6993d1a9f44ace31347
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/99/99af5e9933584166038c3c7f16576ec1
-    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Library/Artifacts/99/99af5e9933584166038c3c7f16576ec1
-    projectPath: Library/Artifacts/99/99af5e9933584166038c3c7f16576ec1
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/a2/a2463fac1e67156e5392e2bb06b1d5c8
-    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Library/Artifacts/a2/a2463fac1e67156e5392e2bb06b1d5c8
-    projectPath: Library/Artifacts/a2/a2463fac1e67156e5392e2bb06b1d5c8
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/a3/a3027fc430714234456234f790bcfd4d
-    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Library/Artifacts/a3/a3027fc430714234456234f790bcfd4d
-    projectPath: Library/Artifacts/a3/a3027fc430714234456234f790bcfd4d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/ad/ad0a61dbc9a71de393c29df1ab26e74e
-    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Library/Artifacts/ad/ad0a61dbc9a71de393c29df1ab26e74e
-    projectPath: Library/Artifacts/ad/ad0a61dbc9a71de393c29df1ab26e74e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/ad/ade9784fcbc0590d0bee34ebeff366ff
-    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Library/Artifacts/ad/ade9784fcbc0590d0bee34ebeff366ff
-    projectPath: Library/Artifacts/ad/ade9784fcbc0590d0bee34ebeff366ff
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/ad/adfc61f92bded27a34e67179e080133f
-    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Library/Artifacts/ad/adfc61f92bded27a34e67179e080133f
-    projectPath: Library/Artifacts/ad/adfc61f92bded27a34e67179e080133f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/c1/c1bb85f523e0a2526a77a9f1b693295d
-    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Library/Artifacts/c1/c1bb85f523e0a2526a77a9f1b693295d
-    projectPath: Library/Artifacts/c1/c1bb85f523e0a2526a77a9f1b693295d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/c8/c8ef9e08ebf49e8c8bdeddaef3ab740d
-    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Library/Artifacts/c8/c8ef9e08ebf49e8c8bdeddaef3ab740d
-    projectPath: Library/Artifacts/c8/c8ef9e08ebf49e8c8bdeddaef3ab740d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/d9/d9e450d1ce2fa950bb810ee8761ea90f
-    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Library/Artifacts/d9/d9e450d1ce2fa950bb810ee8761ea90f
-    projectPath: Library/Artifacts/d9/d9e450d1ce2fa950bb810ee8761ea90f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/ee/ee34d51e9da1bebf3261e1c20fb80743
-    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Library/Artifacts/ee/ee34d51e9da1bebf3261e1c20fb80743
-    projectPath: Library/Artifacts/ee/ee34d51e9da1bebf3261e1c20fb80743
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/f1/f135cc7251b7b1e403153d180448a62e
-    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Library/Artifacts/f1/f135cc7251b7b1e403153d180448a62e
-    projectPath: Library/Artifacts/f1/f135cc7251b7b1e403153d180448a62e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/ff/ff6b8033bcf0e3d93a94f06aebae41ad
-    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Library/Artifacts/ff/ff6b8033bcf0e3d93a94f06aebae41ad
-    projectPath: Library/Artifacts/ff/ff6b8033bcf0e3d93a94f06aebae41ad
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/EditorSnapSettings 7.asset
-    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Library/EditorSnapSettings
-      7.asset
-    projectPath: Library/EditorSnapSettings 7.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/gfu/cache/gitstatusentries 5.yaml
-    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Library/gfu/cache/gitstatusentries
-      5.yaml
-    projectPath: Library/gfu/cache/gitstatusentries 5.yaml
+  - path: Library/Artifacts/f2/f2bf6a592ec6fc8c88af991de300b08c
+    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Library/Artifacts/f2/f2bf6a592ec6fc8c88af991de300b08c
+    projectPath: Library/Artifacts/f2/f2bf6a592ec6fc8c88af991de300b08c
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -301,13 +94,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library/gfu/cache/gittrackingstatus 5.yaml
-    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Library/gfu/cache/gittrackingstatus
-      5.yaml
-    projectPath: Library/gfu/cache/gittrackingstatus 5.yaml
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Library/InspectorExpandedItems.asset
     fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Library/InspectorExpandedItems.asset
     projectPath: Library/InspectorExpandedItems.asset
@@ -332,48 +118,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library/ShaderCache/2/2c0905ce39b2e8468d1092579164e4c4.bin
-    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Library/ShaderCache/2/2c0905ce39b2e8468d1092579164e4c4.bin
-    projectPath: Library/ShaderCache/2/2c0905ce39b2e8468d1092579164e4c4.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/ShaderCache/4/4f864b3c140301102711e1566474281c.bin
-    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Library/ShaderCache/4/4f864b3c140301102711e1566474281c.bin
-    projectPath: Library/ShaderCache/4/4f864b3c140301102711e1566474281c.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/ShaderCache/5/5a97ed2d4029e164a673b84426cd19cb.bin
-    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Library/ShaderCache/5/5a97ed2d4029e164a673b84426cd19cb.bin
-    projectPath: Library/ShaderCache/5/5a97ed2d4029e164a673b84426cd19cb.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/ShaderCache/9/9f3fae4a8b7e4352f8bbf3c5c5445ea7.bin
-    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Library/ShaderCache/9/9f3fae4a8b7e4352f8bbf3c5c5445ea7.bin
-    projectPath: Library/ShaderCache/9/9f3fae4a8b7e4352f8bbf3c5c5445ea7.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/ShaderCache/a/a81eb339b2cec8e42d3259699a6c96cc.bin
-    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Library/ShaderCache/a/a81eb339b2cec8e42d3259699a6c96cc.bin
-    projectPath: Library/ShaderCache/a/a81eb339b2cec8e42d3259699a6c96cc.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/ShaderCache/c/cd32f9da1401afcc11a0c610a3adff4b.bin
-    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Library/ShaderCache/c/cd32f9da1401afcc11a0c610a3adff4b.bin
-    projectPath: Library/ShaderCache/c/cd32f9da1401afcc11a0c610a3adff4b.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/ShaderCache/EditorEncounteredVariants
-    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Library/ShaderCache/EditorEncounteredVariants
-    projectPath: Library/ShaderCache/EditorEncounteredVariants
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library/SourceAssetDB
     fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Library/SourceAssetDB
     projectPath: Library/SourceAssetDB
@@ -386,45 +130,15 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library/StateCache/PrefabStageHierarchy/67/6755547670c1fcba3bb2c60592672eae.json
-    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Library/StateCache/PrefabStageHierarchy/67/6755547670c1fcba3bb2c60592672eae.json
-    projectPath: Library/StateCache/PrefabStageHierarchy/67/6755547670c1fcba3bb2c60592672eae.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Library/StateCache/SceneView/8c/8cd7c613bf844de3b80696e27a479d5e.json
     fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Library/StateCache/SceneView/8c/8cd7c613bf844de3b80696e27a479d5e.json
     projectPath: Library/StateCache/SceneView/8c/8cd7c613bf844de3b80696e27a479d5e.json
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library/StateCache/SceneView/90/90722e5c34a3dc42153f427bcef0da43.json
-    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Library/StateCache/SceneView/90/90722e5c34a3dc42153f427bcef0da43.json
-    projectPath: Library/StateCache/SceneView/90/90722e5c34a3dc42153f427bcef0da43.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Logs/AssetImportWorker0.log
     fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Logs/AssetImportWorker0.log
     projectPath: Logs/AssetImportWorker0.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Logs/shadercompiler-UnityShaderCompiler0.log
-    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Logs/shadercompiler-UnityShaderCompiler0.log
-    projectPath: Logs/shadercompiler-UnityShaderCompiler0.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Logs/shadercompiler-UnityShaderCompiler4.log
-    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Logs/shadercompiler-UnityShaderCompiler4.log
-    projectPath: Logs/shadercompiler-UnityShaderCompiler4.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Logs/shadercompiler-UnityShaderCompiler5.log
-    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Logs/shadercompiler-UnityShaderCompiler5.log
-    projectPath: Logs/shadercompiler-UnityShaderCompiler5.log
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -446,93 +160,45 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Temp/UnityTempFile-04f21ba67104c4f12802d6bd1cd55177
-    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Temp/UnityTempFile-04f21ba67104c4f12802d6bd1cd55177
-    projectPath: Temp/UnityTempFile-04f21ba67104c4f12802d6bd1cd55177
+  - path: Temp/UnityTempFile-063307a841f1c45ad9a03eb840e437ed
+    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Temp/UnityTempFile-063307a841f1c45ad9a03eb840e437ed
+    projectPath: Temp/UnityTempFile-063307a841f1c45ad9a03eb840e437ed
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-0fc9c3056b94141578afcbfe0d026efb
-    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Temp/UnityTempFile-0fc9c3056b94141578afcbfe0d026efb
-    projectPath: Temp/UnityTempFile-0fc9c3056b94141578afcbfe0d026efb
+  - path: Temp/UnityTempFile-1bc9c25c6ebf84e8484467e98fcecb87
+    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Temp/UnityTempFile-1bc9c25c6ebf84e8484467e98fcecb87
+    projectPath: Temp/UnityTempFile-1bc9c25c6ebf84e8484467e98fcecb87
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-339ee1bbc4137404d9eeffe9d6004243
-    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Temp/UnityTempFile-339ee1bbc4137404d9eeffe9d6004243
-    projectPath: Temp/UnityTempFile-339ee1bbc4137404d9eeffe9d6004243
+  - path: Temp/UnityTempFile-3d48ca0ebc48948a4b300255271f4d62
+    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Temp/UnityTempFile-3d48ca0ebc48948a4b300255271f4d62
+    projectPath: Temp/UnityTempFile-3d48ca0ebc48948a4b300255271f4d62
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-67052166341ee416187b18c80a4efb6e
-    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Temp/UnityTempFile-67052166341ee416187b18c80a4efb6e
-    projectPath: Temp/UnityTempFile-67052166341ee416187b18c80a4efb6e
+  - path: Temp/UnityTempFile-47939dc211716448aa92f38eab6fd1aa
+    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Temp/UnityTempFile-47939dc211716448aa92f38eab6fd1aa
+    projectPath: Temp/UnityTempFile-47939dc211716448aa92f38eab6fd1aa
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-6ba525d5064c04677856affaa29d802d
-    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Temp/UnityTempFile-6ba525d5064c04677856affaa29d802d
-    projectPath: Temp/UnityTempFile-6ba525d5064c04677856affaa29d802d
+  - path: Temp/UnityTempFile-536c5ec3d33fe40719d41fd33d7c38ab
+    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Temp/UnityTempFile-536c5ec3d33fe40719d41fd33d7c38ab
+    projectPath: Temp/UnityTempFile-536c5ec3d33fe40719d41fd33d7c38ab
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-8008a15f072f640eab82e5db50b54b02
-    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Temp/UnityTempFile-8008a15f072f640eab82e5db50b54b02
-    projectPath: Temp/UnityTempFile-8008a15f072f640eab82e5db50b54b02
+  - path: Temp/UnityTempFile-667f9d4b43364498e808157c037c8c43
+    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Temp/UnityTempFile-667f9d4b43364498e808157c037c8c43
+    projectPath: Temp/UnityTempFile-667f9d4b43364498e808157c037c8c43
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-8f4702452897942d6ac1dd868254d5b6
-    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Temp/UnityTempFile-8f4702452897942d6ac1dd868254d5b6
-    projectPath: Temp/UnityTempFile-8f4702452897942d6ac1dd868254d5b6
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/UnityTempFile-94e94f0d067cd4a10a5eff4fe0813583
-    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Temp/UnityTempFile-94e94f0d067cd4a10a5eff4fe0813583
-    projectPath: Temp/UnityTempFile-94e94f0d067cd4a10a5eff4fe0813583
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/UnityTempFile-9e38d8bd9411742e4a44eaa57a6bc81e
-    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Temp/UnityTempFile-9e38d8bd9411742e4a44eaa57a6bc81e
-    projectPath: Temp/UnityTempFile-9e38d8bd9411742e4a44eaa57a6bc81e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/UnityTempFile-b90d50d10abcb4021bc854a9f73727ce
-    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Temp/UnityTempFile-b90d50d10abcb4021bc854a9f73727ce
-    projectPath: Temp/UnityTempFile-b90d50d10abcb4021bc854a9f73727ce
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/UnityTempFile-c6ddac12cec724acfa4b44a6a1f51e3b
-    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Temp/UnityTempFile-c6ddac12cec724acfa4b44a6a1f51e3b
-    projectPath: Temp/UnityTempFile-c6ddac12cec724acfa4b44a6a1f51e3b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/UnityTempFile-cb1747deb69434e11ac3208553ee3611
-    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Temp/UnityTempFile-cb1747deb69434e11ac3208553ee3611
-    projectPath: Temp/UnityTempFile-cb1747deb69434e11ac3208553ee3611
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/UnityTempFile-dcc71d3965a3f4f398a53a045d72147c
-    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Temp/UnityTempFile-dcc71d3965a3f4f398a53a045d72147c
-    projectPath: Temp/UnityTempFile-dcc71d3965a3f4f398a53a045d72147c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/UnityTempFile-dd6f0a2bbccce45db9ff2c7eb868392a
-    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Temp/UnityTempFile-dd6f0a2bbccce45db9ff2c7eb868392a
-    projectPath: Temp/UnityTempFile-dd6f0a2bbccce45db9ff2c7eb868392a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/UnityTempFile-eaf8ef74da58d4188901c3c6c54c96b3
-    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Temp/UnityTempFile-eaf8ef74da58d4188901c3c6c54c96b3
-    projectPath: Temp/UnityTempFile-eaf8ef74da58d4188901c3c6c54c96b3
+  - path: Temp/UnityTempFile-745eab37b32cc469aae9ff075190e2a9
+    fullPath: /Users/kacpergrela/Documents/Unity/flappybird/Temp/UnityTempFile-745eab37b32cc469aae9ff075190e2a9
+    projectPath: Temp/UnityTempFile-745eab37b32cc469aae9ff075190e2a9
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
