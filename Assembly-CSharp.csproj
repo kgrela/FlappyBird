@@ -56,6 +56,9 @@
     <Compile Include="Assets/Scripts/Fly.cs" />
     <Compile Include="Assets/Scripts/MovePipe.cs" />
     <Compile Include="Assets/Scripts/Spawner.cs" />
+    <Compile Include="Assets/Scripts/GameManager.cs" />
+    <Compile Include="Assets/Scripts/ScoreManager.cs" />
+    <Compile Include="Assets/Scripts/AddScore.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
