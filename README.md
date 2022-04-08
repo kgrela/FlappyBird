@@ -1,5 +1,3 @@
-![flappy2](https://user-images.githubusercontent.com/38227679/161445423-786de772-e7e2-4541-88ec-ddee1aa78485.png)
-
 # Flappy Bird
 The main purpose of Flappy Bird is to bypass pipes sticking out from the bottom and top of the screen by tapping your finger on the phone's screen. The creator of the original version of the game is Nguyễn Hà Đông. I created this game for training my skills in Unity engine.
 
